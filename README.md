@@ -44,6 +44,6 @@ and contribute to real-world projects.
 
 ### 📫 Connect With Me
 
-- GitHub: https://github.com/Coderonaut08spacesci
-- LinkedIn: https://in.linkedin.com/Grace
+- GitHub: https://github.com/Coderonaut
+- LinkedIn: https://www.linkedin.com/in/grace-kotian-144b82369
 - Email: gracekotian2008@gmail.com
